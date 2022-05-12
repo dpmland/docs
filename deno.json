@@ -9,6 +9,7 @@
   },
   "tasks": {
     "fmt": "deno fmt -c deno.json ; deno lint -c deno.json",
-    "fmt:check": "deno fmt -c deno.json --check ; deno lint -c deno.json"
+    "fmt:check": "deno fmt -c deno.json --check ; deno lint -c deno.json",
+    "new": "deno run -A --unstable ./new_doc.ts"
   }
 }
