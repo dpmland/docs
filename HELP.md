@@ -5,26 +5,34 @@
 Thanks for use this tool well exists many commands here are a very fast
 description:
 
-- **about**: Here you can found the information and some tools for learn more
-  about dpm.
+- **about || me**: Here you can found the information and some tools for learn
+  more about dpm.
 
-- **init**: Here you can generate some files for work with dpm and tools for a
-  better development with Deno.
+- **docs || doc**: Here you can get the documentation and download, clean and
+  update the docs.
 
-- **run**: With this command you can run scripts like `npm scripts` you can
-  define this in the `dpm.json` file.
+- **init || create**: Here you can generate some files for work with dpm and
+  tools for a better development with Deno.
 
-- **tools**: Here you can install tools for a better development with Deno and
+- **uninstall || clean**: Here you can uninstall the dependencies from the
+  _dpm_imports.json_ file and if you want remove one or many of this deps can
+  you do it!
+
+- **install || add**: If you want use external packages and dependencies can you
+  use this tool!
+
+- **tools**: Here you can install tools for a better development with deno and
   for complement the dpm cli.
 
-- **install**: You want install packages for a fast development here are the
-  solution.
+- **task || run**: With this command you can run scripts like `npm scripts` you
+  can define this in the `dpm.json` file.
 
-- **doc**: Here you can get the documentation and download, clean and update the
-  docs.
+- **update**: Here you can check if the file are updated `dpm_imports.json`
+  dependencies and the new version avaliable
 
-- **update**: Here you can check if the file are updated `dpm_imports.json` file
-  or the `deps.ts` _working in this feature_
+- **upgrade**: Upgrade dpm executable to latest or given version.
+
+- **completions**: Generate shell completions
 
 ## More information
 
