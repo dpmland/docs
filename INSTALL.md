@@ -16,14 +16,14 @@ For install dependencies from the [deno.land/x](https://deno.land/x/) register
 you need only write:
 
 ```
-dpm install draco dlog2
+dpm install draco dlog2 json-colorize
 ```
 
 For install dependencies from the [deno std](https://deno.land/std) register you
 need only use this!
 
 ```
-dpm install flag async http path --std
+dpm install --std flag async http path
 ## You need put the name of the library and the flag -s or --std
 ```
 

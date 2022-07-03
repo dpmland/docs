@@ -2,12 +2,13 @@
 
 > You can use this flags on the: **init** command and the **create** alias
 
-| Flags             | Description                                                            |
-| ----------------- | ---------------------------------------------------------------------- |
-| -A, --all [all]   | Write all necessary files                                              |
-| -y, --yes [yes]   | Write only the dpm file and the imports not more! The necessary files! |
-| -f, --file [file] | Only the file to create!                                               |
-| -h, --help        | The CLI help message                                                   |
+| Flags                         | Description                                                            |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| -A, --all [all]               | Write all necessary files with a formatted output                      |
+| -M, --minimalist [minimalist] | Write all nacessary files without a formatted output                   |
+| -y, --yes [yes]               | Write only the dpm file and the imports not more! The necessary files! |
+| -f, --file [file]             | Only the file to create!                                               |
+| -h, --help                    | The CLI help message                                                   |
 
 For start a Deno project with all files you only need make this!
 
