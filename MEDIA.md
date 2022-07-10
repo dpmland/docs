@@ -17,11 +17,12 @@ tools or of this code is forked or adapted from other repos if you want help to
 make this tool better can make a pull request to this repos. The Deno and DPM
 Community appreciate your help
 
-| Name  | About              | Links                                               |
-| ----- | ------------------ | --------------------------------------------------- |
-| Draco | System Information | [Go to the Repo!](https://github.com/dpmland/draco) |
-| Dlog  | Logger             | [Go to the Repo!](https://github.com/dpmland/dlog)  |
-| Anzu  | Coming Soon!       | Coming Soon!                                        |
+| Name                | About              | Links                                                             |
+| ------------------- | ------------------ | ----------------------------------------------------------------- |
+| Draco               | System Information | [Go to the Repo!](https://github.com/dpmland/draco)               |
+| Dlog                | Logger             | [Go to the Repo!](https://github.com/dpmland/dlog)                |
+| deno-json-colorizer | JSON Colorized Out | [Go to the Repo!](https://github.com/dpmland/deno-json-colorizer) |
+| Anzu                | Coming Soon!       | Coming Soon!                                                      |
 
 ---
 
