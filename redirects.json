@@ -1,0 +1,26 @@
+{
+  "$schema": "./schema.json",
+  "redirects": {
+    "install": "https://raw.githubusercontent.com/dpmland/dpm/main/install.ts",
+    "schema": "https://raw.githubusercontent.com/dpmland/dpm/main/schemas/dpm.json",
+    "discord": "https://discord.com/invite/Um27YPJKud",
+    "github": "https://github.com/dpmland/dpm"
+  },
+  "docs": [
+    {
+      "title": "Home",
+      "filepath": "./DPM.md",
+      "description": "This is the main page of the DPM Documentation"
+    },
+    {
+      "title": "Commands",
+      "filepath": "./HELP.md",
+      "description": "Commands avaliable for DPM usage and a little explanation"
+    },
+    {
+      "title": "Commands",
+      "filepath": "./HELP.md",
+      "description": "Commands avaliable for DPM usage and a little explanation"
+    }
+  ]
+}

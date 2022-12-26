@@ -17,12 +17,22 @@ tools or of this code is forked or adapted from other repos if you want help to
 make this tool better can make a pull request to this repos. The Deno and DPM
 Community appreciate your help
 
-| Name                | About              | Links                                                             |
-| ------------------- | ------------------ | ----------------------------------------------------------------- |
-| Draco               | System Information | [Go to the Repo!](https://github.com/dpmland/draco)               |
-| Dlog                | Logger             | [Go to the Repo!](https://github.com/dpmland/dlog)                |
-| deno-json-colorizer | JSON Colorized Out | [Go to the Repo!](https://github.com/dpmland/deno-json-colorizer) |
-| Anzu                | Coming Soon!       | Coming Soon!                                                      |
+| Name                | About                 | Links                                                             |
+| ------------------- | --------------------- | ----------------------------------------------------------------- |
+| Draco               | System Information    | [Go to the Repo!](https://github.com/dpmland/draco)               |
+| Dlog                | Logger                | [Go to the Repo!](https://github.com/dpmland/dlog)                |
+| deno-json-colorizer | JSON Colorized Out    | [Go to the Repo!](https://github.com/dpmland/deno-json-colorizer) |
+| Monk                | Installer Generator   | [Go to the Repo!](https://github.com/dpmland/monk)                |
+| Beno                | Configuration Manager | [Go to the Repo!](https://github.com/dpmland/beno)                |
+
+## Bugs report
+
+For report bugs or errors in the documentation make a issue on the docs repo or
+in the dpm repo on the [dpmland org](https://github.com/dpmland/) and the:
+
+- _[DPM REPO](https://github.com/dpmland/dpm)_: For bugs in the CLI
+- _[DOCS REPO](https://github.com/dpmland/docs)_: For bugs in the documentation
+- _[WEB REPO](https://github.com/dpmland/web)_: For bugs in the website
 
 ---
 

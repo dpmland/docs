@@ -37,7 +37,8 @@ description:
 ## More information
 
 If you want known more about every dpm tool you can run
-`dpm doc command.subcommand`
+`dpm doc command.subcommand` or check in the website the
+[online docs](https://dpmland.deno.dev/docs)
 
 ---
 
