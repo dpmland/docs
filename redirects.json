@@ -1,5 +1,4 @@
 {
-  "$schema": "./schema.json",
   "redirects": {
     "install": "https://raw.githubusercontent.com/dpmland/dpm/main/install.ts",
     "schema": "https://raw.githubusercontent.com/dpmland/dpm/main/schemas/dpm.json",
@@ -15,12 +14,78 @@
     {
       "title": "Commands",
       "filepath": "./HELP.md",
-      "description": "Commands avaliable for DPM usage and a little explanation"
+      "description": "Commands avaliable for DPM usage and a little explanation",
+      "items": [
+        {
+          "title": "About",
+          "filepath": "./ABOUT.md",
+          "description": "Don't you know about DPM? You can stay updated here!"
+        },
+        {
+          "title": "Docs",
+          "filepath": "./DOCS.md",
+          "description": "Do you want know more about one command? Check here"
+        },
+        {
+          "title": "Init",
+          "filepath": "./INIT.md",
+          "description": "Start and create the files necessary for a better development with DPM!",
+          "items": [
+            {
+              "title": "Init - Syntax ",
+              "filepath": "./init/SYNTAX.md",
+              "description": "The syntax of the Files in the init command!"
+            }
+          ]
+        },
+        {
+          "title": "Install",
+          "filepath": "./INIT.md",
+          "description": "If you want to use external packages and dependencies you could look this tool!",
+          "items": [
+            {
+              "title": "Install - Syntax ",
+              "filepath": "./install/DEPS.md",
+              "description": "Syntax of the TypeScript files for use the dependencies!"
+            }
+          ]
+        },
+        {
+          "title": "Uninstall",
+          "filepath": "./UNINSTALL.md",
+          "description": "Uninstall dependencies from the dpm file and the import file!"
+        },
+        {
+          "title": "Tools",
+          "filepath": "./TOOLS.md",
+          "description": "You need some tools for develop with Deno well here are all tools!"
+        },
+        {
+          "title": "Tasks",
+          "filepath": "./TASK.md",
+          "description": "If you need automate some commands tasks is here!"
+        }
+      ]
     },
     {
-      "title": "Commands",
-      "filepath": "./HELP.md",
-      "description": "Commands avaliable for DPM usage and a little explanation"
+      "title": "Tutorial",
+      "filepath": "./TUTORIAL.md",
+      "description": "Don't know how to get started with DPM? Check out this tutorial!"
+    },
+    {
+      "title": "Bugs",
+      "filepath": "./BUGS.md",
+      "description": "Recomendations for some common bugs!"
+    },
+    {
+      "title": "Contributing",
+      "filepath": "./CONTRIBUTING.md",
+      "description": "Instructions for start to contributing to this project!"
+    },
+    {
+      "title": "Media",
+      "filepath": "./MEDIA.md",
+      "description": "Here you can find all DPM social networks and where you can support and help us."
     }
   ]
 }
